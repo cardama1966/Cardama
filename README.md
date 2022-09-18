@@ -3,7 +3,7 @@
 #### Learning FullStack
 ![Learning FullStack](https://raw.githubusercontent.com/cardama1966/Cardama1966/main/tarjetapres.png)
 
-All over my life, I've broken through so many different occupations that made me eager to learn many more. As many of my jobs had relations with tech, I've decided to immerse in programming skills. So, here I am searching new horizons
+All over my life, I've broken through such a lot of different occupations that made me eager to learn many more. As most of my jobs had relation with tech, I've decided to immerse in programming skills. So, here I am searching new horizons
 
 Skills: Git/Github/Java/Poo
 
